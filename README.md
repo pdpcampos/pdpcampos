@@ -1,7 +1,7 @@
  ## Olá! Sou Pedro Campos
 
 - 🎓 studying information systems 
-- 🌱 C# study
+
 
 ## Coding Activity
 
